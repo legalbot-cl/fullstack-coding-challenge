@@ -1,0 +1,10 @@
+{
+  "name": "backend-legalbot-challenge",
+  "version": "1.0.0",
+  "description": "A Simple auth api to legalbot challenge",
+  "main": "index.ts",
+  "repository": "https://github.com/clunkylion/fullstack-coding-challenge",
+  "author": "José Cortés",
+  "license": "MIT",
+  "private": false
+}
